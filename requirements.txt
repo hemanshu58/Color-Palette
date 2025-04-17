@@ -1,0 +1,16 @@
+Flask==3.0.0
+opencv-python-headless==4.8.1.78
+Werkzeug==3.0.0
+sklearn==0.0
+python-dotenv==1.0.0
+Flask-WTF==1.2.1
+WTForms==3.1.0
+Flask-Reuploaded==1.4.0
+numpy==1.26.1
+Pillow==10.1.0
+psycopg2==2.9.9
+gunicorn==21.2.0
+webcolors==1.13
+pandas==2.1.1
+Bootstrap-Flask==2.3.2
+imutils==0.5.4

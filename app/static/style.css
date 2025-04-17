@@ -1,0 +1,35 @@
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.footer {
+  background-color: #f5f5f5;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.custom-file,
+#submit {
+  margin: 0em 1em;
+}
+
+.progress-line {
+  display: flex;
+  padding-right: 1em;
+}
+
+#progress-div {
+  margin-right: 1em;
+  padding: 0;
+}
